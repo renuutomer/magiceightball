@@ -1,5 +1,5 @@
 var userName = ''
-'Renuu' ? console.log('Hello, Renuu!') :
+'Jane' ? console.log('Hello, Jane!') :
 console.log('Hello!');
 var userQuestion = 'Am i good at nitrotype?'
 console.log(`Am i good at nitrotype?: ${userQuestion}`);
